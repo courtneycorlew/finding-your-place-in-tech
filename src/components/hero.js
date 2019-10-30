@@ -2,7 +2,6 @@ import React from "react"
 import PropTypes from "prop-types"
 import headerImage from "../images/header.png"
 import MockupContent from "./image"
-import mockupFrame from "../images/mockup-frame.png"
 import EmailListForm from './EmailListForm'
 const Header = ({ siteTitle }) => (
   <div
